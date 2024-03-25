@@ -6,6 +6,7 @@ include("includes/navbar.php");
 <div class="container mt-5">
 
 trait_exists
+d
 
 </div>
 
